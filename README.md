@@ -1,4 +1,4 @@
-c# Demo Repository
+# Demo Repository
 
 ## About
 This is my first repository on GitHub.  
